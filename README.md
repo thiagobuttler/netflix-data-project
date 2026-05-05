@@ -31,7 +31,7 @@ Pipeline de dados completo para análise do catálogo da Netflix, contemplando d
 - **netflix-raw**: Camada de dados brutos (bronze)
 - **netflix-analytical**: Camada de dados processados (gold)
 
-## 🎯 Habilidades Demonstradas
+## 🎯 Habilidades
 - Arquitetura de dados em cloud AWS
 - ETL com AWS Glue e Crawlers
 - Query analítica com Amazon Athena
